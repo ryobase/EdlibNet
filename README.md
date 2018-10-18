@@ -31,6 +31,8 @@ Most of texts from this README are copied from the original library.
 
 ## Alignment methods
 
+Copied from the original library:
+
 > Edlib supports 3 alignment methods:
 > * **global (NW)** - This is the standard method, when we say "edit distance" this is the method that is assumed.
 >  It tells us the smallest number of operations needed to transform first sequence into second sequence.
@@ -52,6 +54,7 @@ Just load this project into yours
 - [ ] Implement finding start and/or end locations of the alignment path.
 - [ ] Unit tests.
 - [ ] Benchmark.
+- [ ] Publish to NuGet.
 
 ## Acknowledgements
 
